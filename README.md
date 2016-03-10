@@ -2,10 +2,14 @@ Script Installation
 ===================
 
 First you need to install pip:
-  sudo apt-get install python-pip
+```
+sudo apt-get install python-pip
+```
   
 Then you should navigate to the script directory and enter the following command:
-  sudo pip install -r requirements.txt
+```
+sudo pip install -r requirements.txt
+```
   
 Then you are good to go!!
 
